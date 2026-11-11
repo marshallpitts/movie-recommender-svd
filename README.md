@@ -4,7 +4,7 @@ Movie recommendation system
 
 ## Dataset
 
-This project uses the MovieLens 100k dataset provided by GroupLens Research at the University of Minnesota.
+This project uses the MovieLens 100k dataset.
 
 Dataset: https://grouplens.org/datasets/movielens/100k/
 
